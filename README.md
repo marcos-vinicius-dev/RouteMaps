@@ -10,7 +10,7 @@ Using your terminal window, navigate to the supermodular2 folder. Install the No
 Get Key Api:
 https://developers.google.com/maps/documentation/javascript/get-api-key
 
-## Page Index.js
+## Page Index.html
 Change this [YOURKEYAPI] obtained from your google account
 
 ``` <script src="https://maps.googleapis.com/maps/api/js?key=YOURKEYAPI&libraries=places"></script> ```
