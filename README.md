@@ -7,7 +7,13 @@ Using your terminal window, navigate to the supermodular2 folder. Install the No
 ``` $ npm install ```
 
 ## Key API Google Maps
-
+Get Key Api:
 https://developers.google.com/maps/documentation/javascript/get-api-key
+
+## Page Index.js
+Change this [YOURKEYAPI] obtained from your google account
+
+``` <script src="https://maps.googleapis.com/maps/api/js?key=YOURKEYAPI&libraries=places"></script> ```
+
 
 
